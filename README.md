@@ -6,7 +6,7 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 📝 I write blogs on https://medium.com/@gefkkd
 
 # Meetups
-https://www.linkedin.com/posts/manitechy_opensource-opensourcecommunity-opensource-activity-7098883859081003008-Jadv?utm_source=share&utm_medium=member_desktop
+https://rb.gy/jd4np
 # AWS
 # PROJECTS
 # Docker
