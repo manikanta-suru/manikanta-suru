@@ -5,9 +5,9 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 # Meetups
-https://rb.gy/jd4np
+𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://rb.gy/jd4np
 
-https://shorturl.at/iwCGK
+𝐇𝐚𝐝 𝐚 𝐁𝐥𝐚𝐬𝐭 𝐚𝐭 𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://shorturl.at/iwCGK
 
 # linux
 #exploring #Linux: Hands-on Labs for Learning Linux Without Installation” https://www.youtube.com/watch?v=Q0v492djMts
@@ -38,22 +38,24 @@ AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/
 
 “Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub”  https://tinyurl.com/bbee3adc
 
+Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
+
 # Docker and Kubernetes security.
 Identify vulnerabilities and security issues in container images. https://shorturl.at/dfuwM
 
 Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure. https://shorturl.at/fitRY
 
 # Cloud Security
-https://shorturl.at/ehm08
+Essential Security Tools for Containers and Kubernetes. https://shorturl.at/ehm08
 
-https://shorturl.at/efGT8
+"How to Use OWASP ZAP for Website Penetration Testing" Spiering a Website with OWASP ZAP https://www.youtube.com/watch?v=Ly5vWLg8f8E
 
-https://www.youtube.com/watch?v=Ly5vWLg8f8E
+“𝙈𝙞𝙘𝙧𝙤𝙨𝙤𝙛𝙩 𝘿𝙚𝙛𝙚𝙣𝙙𝙚𝙧 𝙛𝙤𝙧 𝘾𝙡𝙤𝙪𝙙” https://tinyurl.com/5fmbut9r
 
-https://tinyurl.com/5fmbut9r
+Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
 
 # Vlogs
-https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
+Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
 
 # AI
 
