@@ -19,7 +19,7 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 
 [How do you reset your login password to the Ubuntu Linux server if you forget it](https://shorturl.at/gvQ08) 
 
-[Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server](https://shorturl.at/nxAPQ))
+[Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server](https://shorturl.at/nxAPQ)
 
 [Let’s briefly understand (LVM) Logical volume mange in Linux](https://shorturl.at/fuyEK)
 
