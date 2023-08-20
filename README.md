@@ -12,12 +12,25 @@ https://rb.gy/jd4np
 https://shorturl.at/iwCGK
 
 # linux
+https://www.youtube.com/watch?v=Q0v492djMts
+
+https://shorturl.at/lLY67
+
+https://shorturl.at/gvQ08
+
+https://shorturl.at/nxAPQ
+
+https://shorturl.at/fuyEK
+
 
 
 # AWS
 
+
 # PROJECTS
 https://shorturl.at/ksxA0
+https://www.youtube.com/watch?v=vN3B66z6SBA
+
 # Docker and Kubernetes security.
 https://shorturl.at/dfuwM
 
@@ -28,8 +41,12 @@ https://shorturl.at/ehm08
 
 https://shorturl.at/efGT8
 
+https://www.youtube.com/watch?v=Ly5vWLg8f8E
+
+
 
 # Vlogs
+https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
 
 # AI
 
