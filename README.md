@@ -13,13 +13,13 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 [Top 50 Linux Commands Every User Should Know “ Explained with Real-World Examples 
 ](https://medium.com/cloudnloud/top-50-linux-commands-you-must-know-as-a-regular-user-59164d57796a)
 
-#exploring #Linux: Hands-on Labs for Learning Linux Without Installation” https://www.youtube.com/watch?v=Q0v492djMts
+[#exploring #Linux: Hands-on Labs for Learning Linux Without Installation” ](https://www.youtube.com/watch?v=Q0v492djMts)
 
-Let's understand the Linux Partitions /Folder structure. https://shorturl.at/lLY67
+[Let's understand the Linux Partitions /Folder structure.](https://shorturl.at/lLY67) 
 
-How do you reset your login password to the Ubuntu Linux server if you forget it https://shorturl.at/gvQ08
-
-Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server. https://shorturl.at/nxAPQ
+[How do you reset your login password to the Ubuntu Linux server if you forget it](https://shorturl.at/gvQ08) 
+[
+Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server.]([url](https://shorturl.at/nxAPQ))
 
 Let’s briefly understand (LVM) Logical volume mange in Linux https://shorturl.at/fuyEK
 
