@@ -12,7 +12,9 @@ bit.ly/3QPF4Nd
 # AWS
 
 # PROJECTS
+https://shorturl.at/ksxA0
 # Docker
+
 # Cloud Security
 https://shorturl.at/efGT8
 # Vlogs
