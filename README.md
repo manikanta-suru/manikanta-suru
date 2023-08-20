@@ -25,10 +25,14 @@ https://shorturl.at/fuyEK
 
 
 # AWS
+https://tinyurl.com/5t4f3e3v
+
+
 
 
 # PROJECTS
 https://shorturl.at/ksxA0
+
 https://www.youtube.com/watch?v=vN3B66z6SBA
 
 # Docker and Kubernetes security.
@@ -36,12 +40,18 @@ https://shorturl.at/dfuwM
 
 https://shorturl.at/fitRY
 
+https://tinyurl.com/bbee3adc
+
+
+
 # Cloud Security
 https://shorturl.at/ehm08
 
 https://shorturl.at/efGT8
 
 https://www.youtube.com/watch?v=Ly5vWLg8f8E
+
+https://tinyurl.com/5fmbut9r
 
 
 
