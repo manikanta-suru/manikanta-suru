@@ -7,6 +7,8 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 
 # Meetups
 https://rb.gy/jd4np
+# linux
+bit.ly/3QPF4Nd
 # AWS
 
 # PROJECTS
@@ -20,6 +22,6 @@ https://rb.gy/4truv
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 https://rb.gy/vqkl0
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
-#linux
+
 
 
