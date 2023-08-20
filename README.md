@@ -23,7 +23,7 @@ Let’s briefly understand (LVM) Logical volume mange in Linux https://shorturl.
 # AWS
 AWS Budget Setup https://tinyurl.com/5t4f3e3v
 
-AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform| POChttps://youtu.be/yC5R7kmdCEY
+AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform| POC https://youtu.be/yC5R7kmdCEY
 
 AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
 
