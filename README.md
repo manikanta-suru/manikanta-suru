@@ -20,8 +20,6 @@ Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server. htt
 
 Let’s briefly understand (LVM) Logical volume mange in Linux https://shorturl.at/fuyEK
 
-
-
 # AWS
 AWS Budget Setup https://tinyurl.com/5t4f3e3v
 
@@ -38,12 +36,12 @@ AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/
 
 "Install Kali Linux on VirtualBox (2023) in 5 Minutes." https://www.youtube.com/watch?v=vN3B66z6SBA
 
+“Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub”  https://tinyurl.com/bbee3adc
+
 # Docker and Kubernetes security.
-https://shorturl.at/dfuwM
+Identify vulnerabilities and security issues in container images. https://shorturl.at/dfuwM
 
-https://shorturl.at/fitRY
-
-https://tinyurl.com/bbee3adc
+Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure. https://shorturl.at/fitRY
 
 # Cloud Security
 https://shorturl.at/ehm08
