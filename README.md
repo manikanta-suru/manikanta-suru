@@ -97,10 +97,10 @@ https://rb.gy/4truv
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 https://rb.gy/vqkl0
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
-
 # Connect with Me & Community 🤝🏻!
-Languages and Tools
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/b048752b-3c0e-4687-96d5-2451ba00d457)
+📫 How to reach me manikanta.suru@outlook.com
+# Languages and Tools:
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/29b9339f-ff29-49ae-961b-2c99ca02c681)
 
 
 
