@@ -7,6 +7,7 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 
 # Meetups
 https://rb.gy/jd4np
+
 https://shorturl.at/iwCGK
 # linux
 bit.ly/3QPF4Nd
