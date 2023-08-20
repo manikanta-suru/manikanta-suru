@@ -17,8 +17,10 @@ https://shorturl.at/ksxA0
 # Docker
 
 # Cloud Security
+https://shorturl.at/ehm08
 https://shorturl.at/efGT8
 # Vlogs
+# AI
 
 # Certifications
 https://rb.gy/4truv
