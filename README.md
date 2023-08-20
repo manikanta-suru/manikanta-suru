@@ -10,15 +10,15 @@ https://rb.gy/jd4np
 https://shorturl.at/iwCGK
 
 # linux
-https://www.youtube.com/watch?v=Q0v492djMts
+#exploring #Linux: Hands-on Labs for Learning Linux Without Installation” https://www.youtube.com/watch?v=Q0v492djMts
 
-https://shorturl.at/lLY67
+Let's understand the Linux Partitions /Folder structure. https://shorturl.at/lLY67
 
-https://shorturl.at/gvQ08
+How do you reset your login password to the Ubuntu Linux server if you forget it? https://shorturl.at/gvQ08
 
-https://shorturl.at/nxAPQ
+Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server. https://shorturl.at/nxAPQ
 
-https://shorturl.at/fuyEK
+Let’s briefly understand (LVM) Logical volume mange in Linux https://shorturl.at/fuyEK
 
 
 
