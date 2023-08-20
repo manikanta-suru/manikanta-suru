@@ -11,7 +11,7 @@ https://rb.gy/jd4np
 https://shorturl.at/iwCGK
 
 # linux
-bit.ly/3QPF4Nd
+
 
 # AWS
 
