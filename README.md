@@ -37,6 +37,24 @@ Creating a Scalable and Highly Available AWS Infrastructure"  | Auto Scaling | h
 
 AWS - EC2 - Tag mail Alert Automation | #AutomationScripts |  https://youtu.be/ypOF8jkLfuk
 
+Create  a Scalable and Highly Available AWS Infrastructure | Load Balancing | https://youtu.be/L5a_AS62EKs
+
+Creating a Custom Amazon Machine Image (AMI) in Real-Time | POC |  https://youtu.be/g8biD0hYAyg
+
+Amazon S3 Real time Use Case | POC | https://youtu.be/KtxoQ5or9sU
+
+S3  Data Archive with POC: Streamlining Your Data Management Strategy | https://youtu.be/dmgkw2-IhAM
+
+AWS IAM Roles and MFA: Step-by-Step Guide to Secure Access Control | POC | https://youtu.be/sTjErVAkFtI
+ 
+Amazon S3 and IAM roles with S3 | Permissions management | poc | https://youtu.be/gJDelRERd04
+
+Automate Your EC2 Start and Stop with AWS Lambda Functions" | poc | https://youtu.be/e61ZTzEEQxQ
+
+Launching an AWS Instance with AWS CLI: Step-by-Step Guide | POC | https://youtu.be/T7OuWkn7Ev8
+
+EFS (Elastic File System) Proof of Concept (POC) | https://youtu.be/GEh5jVGLwuU
+
 # PROJECTS
 "Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide" https://shorturl.at/ksxA0
 
