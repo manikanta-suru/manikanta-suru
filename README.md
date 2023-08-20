@@ -5,11 +5,11 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 # Meetups
-𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://rb.gy/jd4np
+[𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023]([url](https://rb.gy/jd4np))
 
 𝐇𝐚𝐝 𝐚 𝐁𝐥𝐚𝐬𝐭 𝐚𝐭 𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://shorturl.at/iwCGK
 
-# linux
+# Linux
 Top 50 Linux Commands Every User Should Know “ Explained with Real-World Examples” https://medium.com/cloudnloud/top-50-linux-commands-you-must-know-as-a-regular-user-59164d57796a
 
 #exploring #Linux: Hands-on Labs for Learning Linux Without Installation” https://www.youtube.com/watch?v=Q0v492djMts
