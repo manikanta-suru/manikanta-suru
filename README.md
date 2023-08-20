@@ -9,19 +9,29 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 https://rb.gy/jd4np
 
 https://shorturl.at/iwCGK
+
 # linux
 bit.ly/3QPF4Nd
+
 # AWS
 
 # PROJECTS
 https://shorturl.at/ksxA0
-# Docker
+# Docker and Kubernetes security.
+https://shorturl.at/dfuwM
+
+https://shorturl.at/fitRY
 
 # Cloud Security
 https://shorturl.at/ehm08
+
 https://shorturl.at/efGT8
+
+
 # Vlogs
+
 # AI
+
 
 # Certifications
 https://rb.gy/4truv
