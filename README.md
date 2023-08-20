@@ -68,25 +68,25 @@ EFS (Elastic File System) Proof of Concept (POC) | https://youtu.be/GEh5jVGLwuU
 [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
 # Docker and Kubernetes security.
-Identify vulnerabilities and security issues in container images. https://shorturl.at/dfuwM
+[Identify vulnerabilities and security issues in container images](https://shorturl.at/dfuwM)
 
-Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure. https://shorturl.at/fitRY
+[Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure] (https://shorturl.at/fitRY)
 
-How to Use OWASP ZAP for Website Penetration Testing" Spiering a Website with OWASP ZAP https://www.youtube.com/watch?v=Ly5vWLg8f8E
+[How to Use OWASP ZAP for Website Penetration Testing" Spiering a Website with OWASP ZAP](https://www.youtube.com/watch?v=Ly5vWLg8f8E)
 
 # Cloud Security
-Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediationhttps://youtu.be/GEh5jVGLwuU
+[Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://youtu.be/GEh5jVGLwuU)
 
-Essential Security Tools for Containers and Kubernetes. https://shorturl.at/ehm08
+[Essential Security Tools for Containers and Kubernetes](https://shorturl.at/ehm08)
 
-“𝙈𝙞𝙘𝙧𝙤𝙨𝙤𝙛𝙩 𝘿𝙚𝙛𝙚𝙣𝙙𝙚𝙧 𝙛𝙤𝙧 𝘾𝙡𝙤𝙪𝙙” https://tinyurl.com/5fmbut9r
+[𝙈𝙞𝙘𝙧𝙤𝙨𝙤𝙛𝙩 𝘿𝙚𝙛𝙚𝙣𝙙𝙚𝙧 𝙛𝙤𝙧 𝘾𝙡𝙤𝙪𝙙](https://tinyurl.com/5fmbut9r)
 
-Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
+[Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
-Here are 11 Amazing Cybersecurity & Hacking  | https://medium.com/@gefkkd/here-are-11-amazing-cybersecurity-hacking-documentaries-recommendations-for-your-viewing-pleasure-19987774d75a
+[Here are 11 Amazing Cybersecurity & Hacking](https://medium.com/@gefkkd/here-are-11-amazing-cybersecurity-hacking-documentaries-recommendations-for-your-viewing-pleasure-19987774d75a)
 
 # Vlogs
-Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
+[Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
 # AI
 ChatGPT vs Google Bard (2023): An in-depth comparison. https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc
