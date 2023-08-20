@@ -13,5 +13,5 @@ https://rb.gy/jd4np
 # Cloud Security
 # Vlogs
 # Certifications
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=00484165A38F25C45AD8FDB0A007BB154E6A276E72B92C78C287518159D116BB
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=687111E506FFD77AEB9AF0A08118BF625DBE506E52E0B9CD9993D7D994CC739B
+https://rb.gy/4truv
+https://rb.gy/vqkl0
