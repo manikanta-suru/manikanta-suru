@@ -14,6 +14,7 @@ https://rb.gy/jd4np
 # Vlogs
 # Certifications
 https://rb.gy/4truv
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/d1e1cac7-b4f5-44c7-93f4-ca6cab43cd10)
-
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 https://rb.gy/vqkl0
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
+
