@@ -82,6 +82,7 @@ Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remedi
 Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
 
 # AI
+ChatGPT vs Google Bard (2023): An in-depth comparison. https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc
 
 # Certifications
 https://rb.gy/4truv
