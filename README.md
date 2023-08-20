@@ -5,7 +5,7 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 # Meetups
-𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://rb.gy/jd4np
+C𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://rb.gy/jd4np
 
 𝐇𝐚𝐝 𝐚 𝐁𝐥𝐚𝐬𝐭 𝐚𝐭 𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩! 2023 https://shorturl.at/iwCGK
 
@@ -30,6 +30,12 @@ AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC h
 AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
 
 AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
+
+Creating a Scalable AWS Infrastructure with Auto Scaling and Launch Configurations | POC | https://youtu.be/2gRbLGgw_0k
+
+Creating a Scalable and Highly Available AWS Infrastructure"  | Auto Scaling | https://youtu.be/_Gf9CgZvpxY
+
+AWS - EC2 - Tag mail Alert Automation | #AutomationScripts |  https://youtu.be/ypOF8jkLfuk
 
 # PROJECTS
 "Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide" https://shorturl.at/ksxA0
