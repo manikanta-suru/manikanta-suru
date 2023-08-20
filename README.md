@@ -39,9 +39,9 @@ AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/
 
 
 # PROJECTS
-https://shorturl.at/ksxA0
+"Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide" https://shorturl.at/ksxA0
 
-https://www.youtube.com/watch?v=vN3B66z6SBA
+"Install Kali Linux on VirtualBox (2023) in 5 Minutes." https://www.youtube.com/watch?v=vN3B66z6SBA
 
 # Docker and Kubernetes security.
 https://shorturl.at/dfuwM
