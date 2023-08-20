@@ -59,13 +59,13 @@ Launching an AWS Instance with AWS CLI: Step-by-Step Guide | POC | https://youtu
 EFS (Elastic File System) Proof of Concept (POC) | https://youtu.be/GEh5jVGLwuU
 
 # PROJECTS
-"Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide" https://shorturl.at/ksxA0
+[Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide](https://shorturl.at/ksxA0)
 
-"Install Kali Linux on VirtualBox (2023) in 5 Minutes." https://www.youtube.com/watch?v=vN3B66z6SBA
+[Install Kali Linux on VirtualBox (2023) in 5 Minutes](https://www.youtube.com/watch?v=vN3B66z6SBA)
 
-“Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub”  https://tinyurl.com/bbee3adc
+[Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub](https://tinyurl.com/bbee3adc)
 
-Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
+[Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
 # Docker and Kubernetes security.
 Identify vulnerabilities and security issues in container images. https://shorturl.at/dfuwM
