@@ -23,13 +23,13 @@ https://shorturl.at/fuyEK
 
 
 # AWS
-https://tinyurl.com/5t4f3e3v
+AWS Budget Setup https://tinyurl.com/5t4f3e3v
 
-https://youtu.be/yC5R7kmdCEY
+AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform| POChttps://youtu.be/yC5R7kmdCEY
 
-https://youtu.be/Qr_DebsFZMY
+AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
 
-https://youtu.be/Qr_DebsFZMY
+AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POChttps://youtu.be/Qr_DebsFZMY
 
 AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
 
