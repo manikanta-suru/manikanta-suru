@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Manikanata
 I am an AWS Community Builder and core team member of the CloudnLoud Tech Community. I am passionate about cloud computing and Security.
-🌱 I’m currently working as a Lead in Digital Assurance and Engineering Services. AWS,Azure,GCP
+🌱 I’m currently working as a Lead in Digital Assurance and Engineering Services. AWS, Azure,GCP
 
-📝 I write blogs on  Check out my linktree https://linktr.ee/manikanta.suru
+📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 # Meetups
 https://rb.gy/jd4np
@@ -14,7 +14,7 @@ https://shorturl.at/iwCGK
 
 Let's understand the Linux Partitions /Folder structure. https://shorturl.at/lLY67
 
-How do you reset your login password to the Ubuntu Linux server if you forget it? https://shorturl.at/gvQ08
+How do you reset your login password to the Ubuntu Linux server if you forget it https://shorturl.at/gvQ08
 
 Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server. https://shorturl.at/nxAPQ
 
@@ -33,11 +33,6 @@ AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC h
 
 AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
 
-
-
-
-
-
 # PROJECTS
 "Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide" https://shorturl.at/ksxA0
 
@@ -50,8 +45,6 @@ https://shorturl.at/fitRY
 
 https://tinyurl.com/bbee3adc
 
-
-
 # Cloud Security
 https://shorturl.at/ehm08
 
@@ -61,13 +54,10 @@ https://www.youtube.com/watch?v=Ly5vWLg8f8E
 
 https://tinyurl.com/5fmbut9r
 
-
-
 # Vlogs
 https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s
 
 # AI
-
 
 # Certifications
 https://rb.gy/4truv
