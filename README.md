@@ -29,7 +29,7 @@ AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform| POCh
 
 AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
 
-AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POChttps://youtu.be/Qr_DebsFZMY
+AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
 
 AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
 
