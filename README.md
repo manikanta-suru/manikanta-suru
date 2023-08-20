@@ -25,6 +25,16 @@ https://shorturl.at/fuyEK
 # AWS
 https://tinyurl.com/5t4f3e3v
 
+https://youtu.be/yC5R7kmdCEY
+
+https://youtu.be/Qr_DebsFZMY
+
+https://youtu.be/Qr_DebsFZMY
+
+AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
+
+
+
 
 
 
@@ -64,6 +74,8 @@ https://rb.gy/4truv
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 https://rb.gy/vqkl0
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
+
+# Connect with Me & Community 🤝🏻!
 
 
 
