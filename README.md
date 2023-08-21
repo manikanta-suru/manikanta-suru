@@ -28,35 +28,35 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 
 [AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform POC](https://youtu.be/yC5R7kmdCEY)
 
-AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
+[AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC](https://youtu.be/Qr_DebsFZMY0)
 
-AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC https://youtu.be/Qr_DebsFZMY
+[AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC](https://youtu.be/Qr_DebsFZMY)
 
-AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | https://youtu.be/mPacmRSMbvA
+[AWS - EC2 - Disk Snapshot  | Automation Scripts | #Terraform | ](https://youtu.be/mPacmRSMbvA)
 
-Creating a Scalable AWS Infrastructure with Auto Scaling and Launch Configurations | POC | https://youtu.be/2gRbLGgw_0k
+[Creating a Scalable AWS Infrastructure with Auto Scaling and Launch Configurations | POC ](https://youtu.be/2gRbLGgw_0k)
 
-Creating a Scalable and Highly Available AWS Infrastructure"  | Auto Scaling | https://youtu.be/_Gf9CgZvpxY
+[Creating a Scalable and Highly Available AWS Infrastructure"  | Auto Scaling](https://youtu.be/_Gf9CgZvpxY)
 
-AWS - EC2 - Tag mail Alert Automation | #AutomationScripts |  https://youtu.be/ypOF8jkLfuk
+[AWS - EC2 - Tag mail Alert Automation | #AutomationScripts](https://youtu.be/ypOF8jkLfuk)
 
-Create  a Scalable and Highly Available AWS Infrastructure | Load Balancing | https://youtu.be/L5a_AS62EKs
+[Create  a Scalable and Highly Available AWS Infrastructure | Load Balancing](https://youtu.be/L5a_AS62EKs)
 
-Creating a Custom Amazon Machine Image (AMI) in Real-Time | POC |  https://youtu.be/g8biD0hYAyg
+[Creating a Custom Amazon Machine Image (AMI) in Real-Time | POC](https://youtu.be/g8biD0hYAyg)
 
-Amazon S3 Real time Use Case | POC | https://youtu.be/KtxoQ5or9sU
+[Amazon S3 Real time Use Case | POC](https://youtu.be/KtxoQ5or9sU)
 
-S3  Data Archive with POC: Streamlining Your Data Management Strategy | https://youtu.be/dmgkw2-IhAM
+[S3 Data Archive with POC: Streamlining Your Data Management Strategy](https://youtu.be/dmgkw2-IhAM)
 
-AWS IAM Roles and MFA: Step-by-Step Guide to Secure Access Control | POC | https://youtu.be/sTjErVAkFtI
+[AWS IAM Roles and MFA: Step-by-Step Guide to Secure Access Control | POC](https://youtu.be/sTjErVAkFtI)
  
-Amazon S3 and IAM roles with S3 | Permissions management | poc | https://youtu.be/gJDelRERd04
+[Amazon S3 and IAM roles with S3 | Permissions management | poc](https://youtu.be/gJDelRERd04)
 
-Automate Your EC2 Start and Stop with AWS Lambda Functions" | poc | https://youtu.be/e61ZTzEEQxQ
+[Automate Your EC2 Start and Stop with AWS Lambda Functions poc](https://youtu.be/e61ZTzEEQxQ)
 
-Launching an AWS Instance with AWS CLI: Step-by-Step Guide | POC | https://youtu.be/T7OuWkn7Ev8
+[Launching an AWS Instance with AWS CLI: Step-by-Step Guide | POC](https://youtu.be/T7OuWkn7Ev8)
 
-EFS (Elastic File System) Proof of Concept (POC) | https://youtu.be/GEh5jVGLwuU
+[EFS (Elastic File System) Proof of Concept | POC ](https://youtu.be/GEh5jVGLwuU)
 
 # PROJECTS
 [Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide](https://shorturl.at/ksxA0)
@@ -70,7 +70,7 @@ EFS (Elastic File System) Proof of Concept (POC) | https://youtu.be/GEh5jVGLwuU
 # Docker and Kubernetes security.
 [Identify vulnerabilities and security issues in container images](https://shorturl.at/dfuwM)
 
-[Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure] (https://shorturl.at/fitRY)
+[Enhancing Container and Kubernetes Security Essential open-source tools for a Fortified Infrastructure](https://shorturl.at/fitRY)
 
 [How to Use OWASP ZAP for Website Penetration Testing" Spiering a Website with OWASP ZAP](https://www.youtube.com/watch?v=Ly5vWLg8f8E)
 
