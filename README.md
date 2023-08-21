@@ -94,7 +94,8 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 [ChatGPT vs Google Bard (2023): An in-depth comparison](https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc)
 
 [✨✨Free Open Source Intelligence Tools 2023 — Updated v3✨✨](https://medium.com/@gefkkd/free-open-source-intelligience-tools-2023-updated-v3-b89380b725c4) 
- 
+ # virtualization
+ [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
 # Certifications
 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
