@@ -89,9 +89,9 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
 # AI
-ChatGPT vs Google Bard (2023): An in-depth comparison. https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc
+[ChatGPT vs Google Bard (2023): An in-depth comparison]https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc)
 
-✨✨Free Open Source Intelligience Tools 2023 — Updated v3✨✨ https://medium.com/@gefkkd/free-open-source-intelligience-tools-2023-updated-v3-b89380b725c4 
+[✨✨Free Open Source Intelligience Tools 2023 — Updated v3✨✨]https://medium.com/@gefkkd/free-open-source-intelligience-tools-2023-updated-v3-b89380b725c4) 
  
 # Certifications
 https://rb.gy/4truv
