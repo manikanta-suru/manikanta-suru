@@ -98,9 +98,8 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
-[Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cfc2dd0306e)
-[image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/57aa379f-9daf-4c0d-8c4b-eba1116b0582)
-
+[Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
 # Connect with Me & Community 🤝🏻!
 📫 How to reach me manikanta.suru@outlook.com
 # Languages and Tools:
