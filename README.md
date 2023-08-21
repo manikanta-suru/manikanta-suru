@@ -102,6 +102,7 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
 [Vmware-vsphere 6.5](https://www.udemy.com/certificate/UC-3cc54ab0-eaf4-4222-a71f-df2e67f808f6)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/2480980f-c853-4638-95e1-ebf0dfb3a85c)
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/40a51057-641c-436c-bc2c-54d5d721c215)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/c1d30f89-ade4-4b2b-83f0-da364a156591)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/89b663cf-4002-41fd-b328-2094e54dc1e8)
 
