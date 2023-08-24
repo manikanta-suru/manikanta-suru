@@ -108,6 +108,8 @@ I am an AWS Community Builder and core team member of the CloudnLoud Tech Commun
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/40a51057-641c-436c-bc2c-54d5d721c215)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/c1d30f89-ade4-4b2b-83f0-da364a156591)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/89b663cf-4002-41fd-b328-2094e54dc1e8)
+# Appreciations:
+[Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
 
 # Connect with Me & Community 🤝🏻!
 📫 How to reach me manikanta.suru@outlook.com
