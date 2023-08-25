@@ -1,3 +1,5 @@
+![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/367bb4d0-9a6d-4534-8ba4-67d5846f28ce)
+
 ## Hi 👋, I'm Manikanta
 I am an AWS Community Builder and core team member of the CloudnLoud Tech Community. I am passionate about cloud computing and Security.
 🌱 I’m currently working as a Lead in Digital Assurance and Engineering Services. AWS, Azure, GCP
