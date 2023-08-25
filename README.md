@@ -1,4 +1,4 @@
-## Hi 👋, I'm Manikanta You can call me - Mani.
+## Hi 👋, I'm Manikanta Suru You can call me - Mani.
 🎯I am an AWS Community Builder and core team member of the CloudnLoud Tech Community.
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
