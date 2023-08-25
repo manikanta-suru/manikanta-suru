@@ -1,4 +1,4 @@
-## Hi 👋, I'm Manikanta You can call me - Mani..
+## Hi 👋, I'm Manikanta You can call me - Mani.
 I am an AWS Community Builder and core team member of the CloudnLoud Tech Community.
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Cloud Security (CSPM) Consultant, I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
