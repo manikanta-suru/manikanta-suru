@@ -7,8 +7,7 @@
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 ## Cloud Native Skills:-
-- Microsoft Platform
-- VMware Solutions
+- Microsoft Platform - VMware Solutions
 - Backup Technologies
 - Vendor Management
 - AWS, Azure Cloud (Administrator/Solution/Security/Optimization)
