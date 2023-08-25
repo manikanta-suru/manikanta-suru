@@ -7,7 +7,7 @@
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 Activists :
 # Achievements
-(I was selected for the AWS Community Builder program for the term of August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
+[I was selected for the AWS Community Builder program for the term of August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
 
 # Meetups
 [𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩!2023](https://rb.gy/jd4np)
