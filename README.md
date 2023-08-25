@@ -8,9 +8,13 @@
 
 ## Cloud Native Skills:-
 • AWS, Azure Cloud, GCP (Administrator/Solution/Security/Optimization)
+
 • Docker, Kubernetes, Ansible, GitHub, Terraform,
+
 • Programming: shell, JSON, YAML, Linux
+
 • Windows Server, Linus servers,vSphere Administration, Backup technologies.
+
 •  JIRA, ServiceNow
 
 # Achievements
