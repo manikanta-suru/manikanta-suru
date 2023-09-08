@@ -103,6 +103,8 @@
 
 [Here are 11 Amazing Cybersecurity & Hacking](https://medium.com/@gefkkd/here-are-11-amazing-cybersecurity-hacking-documentaries-recommendations-for-your-viewing-pleasure-19987774d75a)
 
+[🐝 Exploring Honeypots: Enhancing Cybersecurity Honeypot Introduction🐝](https://www.youtube.com/watch?v=o7DF5gpT8yw&list=PLh_VNk4-EHTPSa01r8E1OjgTWiJbPtl1Q&index=3)
+
 # Vlogs and Posts
 [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
