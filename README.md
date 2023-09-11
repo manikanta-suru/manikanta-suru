@@ -128,7 +128,7 @@
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/89b663cf-4002-41fd-b328-2094e54dc1e8)
 # Appreciations:
 [Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
-(𝐖𝐚𝐥𝐤𝐢𝐧𝐠 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫 𝐩𝐚𝐯𝐞𝐬 𝐭𝐡𝐞 𝐩𝐚𝐭𝐡 𝐟𝐨𝐫 𝐚 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐈𝐧 𝐮𝐧𝐢𝐭𝐲, 𝐰𝐞 𝐬𝐭𝐫𝐢𝐝𝐞 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐚 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐨𝐟 𝐞𝐧𝐝𝐮𝐫𝐚𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7100140283232673792)
+[𝐖𝐚𝐥𝐤𝐢𝐧𝐠 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫 𝐩𝐚𝐯𝐞𝐬 𝐭𝐡𝐞 𝐩𝐚𝐭𝐡 𝐟𝐨𝐫 𝐚 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐈𝐧 𝐮𝐧𝐢𝐭𝐲, 𝐰𝐞 𝐬𝐭𝐫𝐢𝐝𝐞 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐚 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐨𝐟 𝐞𝐧𝐝𝐮𝐫𝐚𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7100140283232673792)
 
 # Connect with Me & Community 🤝🏻!
 📫 How to reach me manikanta.suru@outlook.com
