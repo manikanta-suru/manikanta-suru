@@ -2,7 +2,7 @@
 🎯I am an AWS Community Builder and core team member of the CloudnLoud Tech Community.
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
-𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Cloud Security Lead (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Lead ,Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
 
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
