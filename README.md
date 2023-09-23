@@ -105,6 +105,8 @@
 
 [🐝 Exploring Honeypots: Enhancing Cybersecurity Honeypot Introduction🐝](https://www.youtube.com/watch?v=o7DF5gpT8yw&list=PLh_VNk4-EHTPSa01r8E1OjgTWiJbPtl1Q&index=3)
 
+[🛡️Getting Started with AWS GuardDuty🚀](https://www.linkedin.com/posts/manitechy_getting-started-with-aws-guardduty-activity-7111416577870241792-7i-Z?utm_source=share&utm_medium=member_desktop)
+
 # Vlogs and Posts
 [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
