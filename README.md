@@ -103,7 +103,7 @@
 
 [Here are 11 Amazing Cybersecurity & Hacking](https://medium.com/@gefkkd/here-are-11-amazing-cybersecurity-hacking-documentaries-recommendations-for-your-viewing-pleasure-19987774d75a)
 
-[🐝 Exploring Honeypots: Enhancing Cybersecurity Honeypot Introduction🐝](https://www.youtube.com/watch?v=o7DF5gpT8yw&list=PLh_VNk4-EHTPSa01r8E1OjgTWiJbPtl1Q&index=3)
+[🐝Exploring Honeypots: Enhancing Cybersecurity Honeypot Introduction🐝](https://www.youtube.com/watch?v=o7DF5gpT8yw&list=PLh_VNk4-EHTPSa01r8E1OjgTWiJbPtl1Q&index=3)
 
 [🛡️Getting Started with AWS GuardDuty🚀](https://www.linkedin.com/posts/manitechy_getting-started-with-aws-guardduty-activity-7111416577870241792-7i-Z?utm_source=share&utm_medium=member_desktop)
 
