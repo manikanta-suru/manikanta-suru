@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-💻 I’m a **Security and Cloud Enthusiast**
+💻 I’m a **Cloud Security Enthusiast**
 
 🛠️ **AWS Community Builder and  core team member of the CloudnLoud Tech Community.🔄 **
 
