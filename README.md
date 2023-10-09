@@ -24,7 +24,7 @@
 
 🔭 Exploring content creation
 
-🤩 I’m looking to collaborate on **AWS, Azure,GCP and Cloud Projects**
+🤩 I’m looking to collaborate on **AWS, Azure,GCP and Cloud Security Projects**
 
 📫 Reach out to me at **manikanta.suru@outlook.com**
 
