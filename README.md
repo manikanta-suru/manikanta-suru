@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h3 align="center">An Enthusiast Cloud Security Engineer from India</h3>
-<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=gauri17-pro&theme=radical&row=1"/></p>
-<h1></h1>
-
 <div align="center">
 
 💻 I’m a **Security and Cloud Enthusiast**
