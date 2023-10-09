@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F45F7&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Manikanta+Suru+%F0%9F%98%84;+Let's+%F0%9F%8C%8D+explore+the+world+of+%E2%98%81%EF%B8%8F+cloud+security!+%F0%9F%92%BB%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3F45F7&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Manikanta+Suru;Lets+Explore+the+cloud+security!%F0%9F%94%92%F0%9F%92%BB%F0%9F%8C%90+)](https://git.io/typing-svg)
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
