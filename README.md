@@ -1,8 +1,22 @@
 ## Hi 👋, I'm Manikanta Suru You can call me - Mani.
+
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/manitechy/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@manitechy">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/s_manikanta1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 🎯I am an AWS Community Builder and core team member of the CloudnLoud Tech Community.
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
-𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Lead ,Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Lead,Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
 
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
