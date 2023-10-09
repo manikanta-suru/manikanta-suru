@@ -13,12 +13,38 @@
   </a>
 </div>
 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Gauri+Shirkande+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">An Enthusiast Cloud Security Engineer from India</h3>
+
+<p align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=gauri17-pro&theme=radical&row=1"/></p>
+
+<h1></h1>
+
+<div align="center">
+
+💻 I’m a **Security and Cloud Enthusiast**
+
+🛠️ **AWS Community Builder 🔄**
+
+🌱 I'm a **YouTuber**
+
+📝 I write articles on [Medium](https://medium.com/@manitecy)
+
+🔭 Exploring content creation
+
+🤩 I’m looking to collaborate on **AWS, Azure,GCP and Cloud Projects**
+
+📫 Reach out to me at **manikanta.suru@outlook.com**
+
+</div>
+
+<h1></h1>
 
 🎯I am an AWS Community Builder and core team member of the CloudnLoud Tech Community.
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
-𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Lead,Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Lead, Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
 
 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
