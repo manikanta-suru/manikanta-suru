@@ -16,7 +16,7 @@
 
 💻 I’m a **Security and Cloud Enthusiast**
 
-🛠️ **AWS Community Builder 🔄**
+🛠️ **AWS Community Builder and  core team member of the CloudnLoud Tech Community.🔄 **
 
 🌱 I'm a **YouTuber**
 
