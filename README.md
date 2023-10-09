@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Manikanta Suru You can call me - Mani.
 
+[![## Hi 👋, I'm Manikanta Suru You can call me - Mani.](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
