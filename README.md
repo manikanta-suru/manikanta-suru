@@ -19,8 +19,6 @@
 
 🌱 I'm a **YouTuber**
 
-📝 I write articles on [Medium](https://medium.com/@manitecy)
-
 🔭 Exploring content creation and 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Security Projects**
