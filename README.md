@@ -17,8 +17,6 @@
 
 🛠️ **AWS Community Builder and  core team member of the CloudnLoud Tech Community.🔄 **
 
-🌱 I'm a **YouTuber**
-
 🔭 Exploring content creation and 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
 🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Security Projects**
