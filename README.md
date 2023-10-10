@@ -21,9 +21,9 @@
 
 📝 I write articles on [Medium](https://medium.com/@manitecy)
 
-🔭 Exploring content creation
+🔭 Exploring content creation and 📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
 
-🤩 I’m looking to collaborate on **AWS, Azure,GCP and Cloud Security Projects**
+🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Security Projects**
 
 📫 Reach out to me at **manikanta.suru@outlook.com**
 
@@ -32,9 +32,7 @@
 <h1></h1>
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
-𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with a variety of Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
-
-📝 I write blogs on  Check out my link tree https://linktr.ee/manikanta.suru
+𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 a Tech Cloud Security (CSPM), I possess a strong background in digital assurance and engineering services. I have extensive experience working with various Cloud Service Providers (CSPs) including AWS, Azure, and GCP.
 
 ## Cloud Native Skills:-
 • AWS, Azure Cloud, GCP (Administrator/Solution/Security/Optimization)
