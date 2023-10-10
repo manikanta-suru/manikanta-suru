@@ -49,6 +49,8 @@
 
 [𝐇𝐚𝐝 𝐚 𝐁𝐥𝐚𝐬𝐭 𝐚𝐭 𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩 2023](https://shorturl.at/iwCGK) 
 
+[𝐀𝐭 𝐂𝐡𝐞𝐧𝐧𝐚𝐢 𝐦𝐞𝐞𝐭𝐮𝐩 𝐰𝐢𝐭𝐡 𝐂𝐥𝐨𝐮𝐝𝐧𝐥𝐨𝐮𝐝 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐈𝐧𝐝𝐢𝐚 ](https://www.linkedin.com/posts/manitechy_ai-aws-innovation-activity-7108844938196389888-vc19?utm_source=share&utm_medium=member_desktop)
+
 # Linux
 [Top 50 Linux Commands Every User Should Know “ Explained with Real-World Examples 
 ](https://medium.com/cloudnloud/top-50-linux-commands-you-must-know-as-a-regular-user-59164d57796a)
