@@ -44,6 +44,8 @@
 # Achievements
 [I was selected for the AWS Community Builder program in August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
 
+[my 1st-year welcome kit from AWS Community Builder](https://www.linkedin.com/posts/manitechy_awscommunity-awscommunitybuilders-manitechy-activity-7118288759170768896-UdZH?utm_source=share&utm_medium=member_desktop)
+
 # Meetups
 [𝐂𝐥𝐨𝐮𝐝 𝐍𝐚𝐭𝐢𝐯𝐞 𝐇𝐲𝐝𝐞𝐫𝐚𝐛𝐚𝐝 𝐀𝐮𝐠𝐮𝐬𝐭 𝐌𝐞𝐞𝐭𝐮𝐩 2023](https://rb.gy/jd4np)
 
