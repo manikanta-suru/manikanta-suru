@@ -27,7 +27,7 @@
 
 ## Core Skills:-
 - AWS, Azure Cloud, GCP (Administrator/Solution/Security/Optimization)
-- Docker, Kubernetes, Ansible, GitHub, Terraform,
+- Docker, Kubernetes, Ansible, GitHub, Terraform.i)C
 
 # Achievements
 - [Selected for the AWS Community Builder program in August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
