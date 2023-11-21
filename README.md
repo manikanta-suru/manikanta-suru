@@ -16,10 +16,15 @@
 
 <div align="center">
   💻 I’m a **Cloud Security Enthusiast**
-  🛠️ **AWS Community Builder and core team member of the CloudnLoud Tech Community.🔄**
+  
+  🛠️ **AWS Community Builder 🔄**
+  
   🔭 Exploring content creation and 📝 I write blogs on [Check out my link tree](https://linktr.ee/manitechy)
+  
   🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Security Projects**
+  
   📫 Reach out to me at **manikanta.suru@outlook.com**
+  
 </div>
 
 ## 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣-*
