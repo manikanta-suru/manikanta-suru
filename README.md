@@ -101,37 +101,31 @@
 # virtualization
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
 
-# Certifications
+# Hi there! 👋 I'm [Your Name]
+
+## Certifications 🏆
+
+### Oracle Cloud Certifications
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
-![OCI Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
+  ![OCI Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
-![Oracle Cloud Data Management Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
+  ![Oracle Cloud Data Management Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
+
+### Other Certifications
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
-![Gremlin Certified Chaos Engineering Professional](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
+  ![Gremlin Certified Chaos Engineering Professional](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
 - [Vmware-vsphere 6.5](https://www.udemy.com/certificate/UC-3cc54ab0-eaf4-4222-a71f-df2e67f808f6)
-![Vmware-vsphere 6.5](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/2480980f-c853-4638-95e1-ebf0dfb3a85c)
-![VMware vSphere 6.5](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/40a51057-
+  ![Vmware-vsphere 6.5](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/2480980f-c853-4638-95e1-ebf0dfb3a85c)
 
-# Certifications
-[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
-[Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
-[Vmware-vsphere 6.5](https://www.udemy.com/certificate/UC-3cc54ab0-eaf4-4222-a71f-df2e67f808f6)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/2480980f-c853-4638-95e1-ebf0dfb3a85c)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/40a51057-641c-436c-bc2c-54d5d721c215)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/c1d30f89-ade4-4b2b-83f0-da364a156591)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/89b663cf-4002-41fd-b328-2094e54dc1e8)
-(https://www.credly.com/badges/43b59e98-5f4e-4cf2-bf5a-3e4d9577192a/print)
-# Appreciations:
-[Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
+## Appreciations 🌟
+- [Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
+- [Walking together paves the path for a lasting journey](https://www.linkedin.com/feed/update/urn:li:activity:7100140283232673792/)
 
-[𝐖𝐚𝐥𝐤𝐢𝐧𝐠 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫 𝐩𝐚𝐯𝐞𝐬 𝐭𝐡𝐞 𝐩𝐚𝐭𝐡 𝐟𝐨𝐫 𝐚 𝐥𝐚𝐬𝐭𝐢𝐧𝐠 𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐈𝐧 𝐮𝐧𝐢𝐭𝐲, 𝐰𝐞 𝐬𝐭𝐫𝐢𝐝𝐞 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐚 𝐣𝐨𝐮𝐫𝐧𝐞𝐲 𝐨𝐟 𝐞𝐧𝐝𝐮𝐫𝐚𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:7100140283232673792/)
+## Connect with Me & Community 🤝🏻
+- 📫 How to reach me: [manikanta.suru@outlook.com](mailto:manikanta.suru@outlook.com)
 
-# Connect with Me & Community 🤝🏻!
-📫 How to reach me manikanta.suru@outlook.com
-# Languages and Tools:
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/29b9339f-ff29-49ae-961b-2c99ca02c681)
+## Languages and Tools 🚀
+![Tech Stack](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/29b9339f-ff29-49ae-961b-2c99ca02c681)
 
 
 
