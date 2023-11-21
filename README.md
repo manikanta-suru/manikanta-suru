@@ -115,8 +115,6 @@
 # Certifications
 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
-[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
-![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
 [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
 ![image](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
 [Vmware-vsphere 6.5](https://www.udemy.com/certificate/UC-3cc54ab0-eaf4-4222-a71f-df2e67f808f6)
