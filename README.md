@@ -101,8 +101,6 @@
 # virtualization
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
 
-# Hi there! 👋 I'm [Your Name]
-
 ## Certifications 🏆
 
 ### Oracle Cloud Certifications
