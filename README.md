@@ -37,7 +37,7 @@
 # Achievements
 - [Selected for the AWS Community Builder program in August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
 - [Received my 1st-year welcome kit from AWS Community Builder](https://www.linkedin.com/posts/manitechy_awscommunity-awscommunitybuilders-manitechy-activity-7118288759170768896-UdZH?utm_source=share&utm_medium=member_desktop)
-- [Thrilled to share that I've been selected as an Evaluator for Smart India Hackathon 2023](https://www.linkedin.com/posts/manitechy_smartindiahackathon2023-innovation-problemsolving-activity-7134190070034534400-zyLv?utm_source=share&utm_medium=member_desktop)
+- [Thrilled to share that I've been selected as an Evaluator for Smart India Hackathon 2023](https://www.linkedin.com/posts/manitechy_smartindiahackathon2023-innovation-problemsolving-activity-7134194420882558976-wOGu?utm_source=share&utm_medium=member_desktop)
 
 # Meetups
 - [Cloud Native Hyderabad August Meetup 2023](https://rb.gy/jd4np)
