@@ -47,7 +47,7 @@
 - [Had a Blast at Cloud Native Hyderabad August Meetup 2023](https://shorturl.at/iwCGK) 
 - [At Chennai meetup with CloudnLoud community India](https://www.linkedin.com/posts/manitechy_ai-aws-innovation-activity-7108844938196389888-vc19?utm_source=share&utm_medium=member_desktop)
 - [INDIA CLOUD SECURITY SUMMIT DEC 2023](https://www.linkedin.com/posts/manitechy_microsoftazure-microsoftazure-cloudsecurity-activity-7139497350019878912-U74_?utm_source=share&utm_medium=member_desktop
-- [awsughyd 10th Anniversary Meetup at Amazon development center Hyderabad ] (https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
+- [awsughyd 10th Anniversary Meetup at Amazon development centre Hyderabad ](https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
 
 # Linux
 - [Top 50 Linux Commands Every User Should Know “ Explained with Real-World Examples](https://medium.com/cloudnloud/top-50-linux-commands-you-must-know-as-a-regular-user-59164d57796a)
