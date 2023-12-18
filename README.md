@@ -108,14 +108,8 @@
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
 
 ## Certifications 🏆
-
-### Oracle Cloud Certifications
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
-  ![OCI Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/09bcf7e6-1599-47f4-bbd7-3f2a4b1d05fc)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
-  ![Oracle Cloud Data Management Certified Foundations Associate](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/27771790-9b00-4e33-9b8d-8c7f01f7ada8)
-
-### Other Certifications
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
   
 ## Appreciations 🌟
