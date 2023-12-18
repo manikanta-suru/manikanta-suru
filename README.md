@@ -31,14 +31,13 @@
 - AWS, Azure Cloud, GCP (Administrator/Solution/Security/Optimization)
 - Docker, Kubernetes, Ansible, GitHub, Terraform
 
-# Achievements
+# Achievements 🏆
 - [Selected for the AWS Community Builder program in August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
 - [Received my 1st-year welcome kit from AWS Community Builder](https://www.linkedin.com/posts/manitechy_awscommunity-awscommunitybuilders-manitechy-activity-7118288759170768896-UdZH?utm_source=share&utm_medium=member_desktop)
 - [Thrilled to share that I've been selected as an Evaluator for Smart India Hackathon 2023](https://www.linkedin.com/posts/manitechy_smartindiahackathon2023-innovation-problemsolving-activity-7134194420882558976-wOGu?utm_source=share&utm_medium=member_desktop)
 - [📰 Thrilled to announce: Successfully joined the official AWS Community](https://www.linkedin.com/posts/manitechy_aws-communityengagement-manitechy-activity-7135993790758060032-olaY?utm_source=share&utm_medium=member_desktop)
 
-# My Certifications and Achievements🏆 
-
+# My Certifications 🏆 
 - [Certified IriusRisk Threat Modeling](https://www.credential.net/658b7004-6a4c-416d-942a-a21e5e92cbc4#gs.265a2g)
 - [GitHub and GitLab Integration with Fortify On Demand (FoD) v23.2 for SAST and SCA Scans](https://www.credly.com/badges/15255cd4-5e00-4190-b7cd-80ae5cf53998/public_url)
 - [Computers, Operating Systems, and Security Authorized By Microsoft](https://www.coursera.org/account/accomplishments/verify/J4G24YPWXE8Y) (Coursera)
