@@ -117,10 +117,7 @@
 
 ### Other Certifications
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
-  ![Gremlin Certified Chaos Engineering Professional](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/9dba1db3-766f-4cdc-8425-e3599c626b27)
-- [Vmware-vsphere 6.5](https://www.udemy.com/certificate/UC-3cc54ab0-eaf4-4222-a71f-df2e67f808f6)
-  ![Vmware-vsphere 6.5](https://github.com/manikanta-suru/manikanta-suru/assets/70797344/2480980f-c853-4638-95e1-ebf0dfb3a85c)
-
+  
 ## Appreciations 🌟
 - [Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
 - [Walking together paves the path for a lasting journey](https://www.linkedin.com/feed/update/urn:li:activity:7100140283232673792/)
