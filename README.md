@@ -40,15 +40,13 @@
 - [Thrilled to share that I've been selected as an Evaluator for Smart India Hackathon 2023](https://www.linkedin.com/posts/manitechy_smartindiahackathon2023-innovation-problemsolving-activity-7134194420882558976-wOGu?utm_source=share&utm_medium=member_desktop)
 - [📰 Thrilled to announce: Successfully joined the official AWS Community](https://www.linkedin.com/posts/manitechy_aws-communityengagement-manitechy-activity-7135993790758060032-olaY?utm_source=share&utm_medium=member_desktop) 
 
-  
-
 # Meetups
+- [awsughyd 10th Anniversary Meetup at Amazon development centre Hyderabad Dec2023](https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
+- [INDIA CLOUD SECURITY SUMMIT DEC 2023](https://www.linkedin.com/posts/manitechy_microsoftazure-microsoftazure-cloudsecurity-activity-7139497350019878912-U74_?utm_source=share&utm_medium=member_desktop)
 - [Cloud Native Hyderabad August Meetup 2023](https://rb.gy/jd4np)
 - [Had a Blast at Cloud Native Hyderabad August Meetup 2023](https://shorturl.at/iwCGK) 
 - [At Chennai meetup with CloudnLoud community India](https://www.linkedin.com/posts/manitechy_ai-aws-innovation-activity-7108844938196389888-vc19?utm_source=share&utm_medium=member_desktop)
-- [INDIA CLOUD SECURITY SUMMIT DEC 2023](https://www.linkedin.com/posts/manitechy_microsoftazure-microsoftazure-cloudsecurity-activity-7139497350019878912-U74_?utm_source=share&utm_medium=member_desktop)
-- [awsughyd 10th Anniversary Meetup at Amazon development centre Hyderabad Dec2023](https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
-
+  
 # Linux
 - [Top 50 Linux Commands Every User Should Know “ Explained with Real-World Examples](https://medium.com/cloudnloud/top-50-linux-commands-you-must-know-as-a-regular-user-59164d57796a)
 - [The file system](https://medium.com/cloudnloud/when-the-user-boots-the-os-he-is-placed-in-the-home-directory-or-say-bf4f2a83428b)
