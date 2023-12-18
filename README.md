@@ -108,6 +108,8 @@
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
 
 ## Certifications 🏆
+- [Computers, Operating Systems, and Security Authorized By Microsoft.Computers,Operating Systems,and Security Authorized By Microsoft.
+Coursera](https://www.coursera.org/account/accomplishments/verify/J4G24YPWXE8Y)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
