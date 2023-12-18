@@ -106,19 +106,13 @@
 
 # virtualization
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
-- 
 # My Certifications and Achievements🏆 
 
 - [Certified IriusRisk Threat Modeling](https://www.credential.net/658b7004-6a4c-416d-942a-a21e5e92cbc4#gs.265a2g)
-
 - [GitHub and GitLab Integration with Fortify On Demand (FoD) v23.2 for SAST and SCA Scans](https://www.credly.com/badges/15255cd4-5e00-4190-b7cd-80ae5cf53998/public_url)
-
 - [Computers, Operating Systems, and Security Authorized By Microsoft](https://www.coursera.org/account/accomplishments/verify/J4G24YPWXE8Y) (Coursera)
-
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://rb.gy/4truv)
-
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://rb.gy/vqkl0)
-
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
 
 ## Appreciations 🌟
