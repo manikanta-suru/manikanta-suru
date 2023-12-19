@@ -98,10 +98,7 @@
 - [Here are 11 Amazing Cybersecurity & Hacking Documentaries for Your Viewing Pleasure](https://medium.com/@gefkkd/here-are-11-amazing-cybersecurity-hacking-documentaries-recommendations-for-your-viewing-pleasure-19987774d75a)
 - [🐝Exploring Honeypots: Enhancing Cybersecurity Honeypot Introduction🐝](https://www.youtube.com/watch?v=o7DF5gpT8yw&list=PLh_VNk4-EHTPSa01r8E1OjgTWiJbPtl1Q&index=3)
 - [🛡️Getting Started with AWS GuardDuty🚀](https://medium.com/cloudnloud/%EF%B8%8Fgetting-started-with-aws-guardduty-d70fd0615e5d)
-
-# Vlogs and Posts
-- [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
-
+- 
 # AI
 - [ChatGPT vs Google Bard (2023): An in-depth comparison](https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc)
 - [✨✨Free Open Source Intelligence Tools 2023 — Updated v3✨✨](https://medium.com/@gefkkd/free-open-source-intelligience-tools-2023-updated-v3-b89380b725c4) 
