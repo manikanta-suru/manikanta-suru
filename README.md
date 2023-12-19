@@ -82,7 +82,6 @@
 
 # PROJECTS
 - [Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide](https://shorturl.at/ksxA0)
-- [Install Kali Linux on VirtualBox (2023) in 5 Minutes](https://www.youtube.com/watch?v=vN3B66z6SBA)
 - [Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub](https://tinyurl.com/bbee3adc)
 - [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
 
@@ -109,6 +108,7 @@
 
 # virtualization
 - [VMWare Handon-labs](https://www.youtube.com/playlist?list=PL_AVsWlUsrN2M5m0DBnmxvlSz9rzRotLl)
+- [Install Kali Linux on VirtualBox (2023) in 5 Minutes](https://www.youtube.com/watch?v=vN3B66z6SBA)
 
 ## Appreciations 🌟
 - [Appreciation for the AWS Community Builder Selection - CNL](https://www.linkedin.com/posts/vijaystack_awscommunitybuilders-awscommunitybuilders-activity-7100140283232673792-gEXd?utm_source=share&utm_medium=member_desktop)
