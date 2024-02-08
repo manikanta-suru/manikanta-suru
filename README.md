@@ -15,13 +15,13 @@
 </div>
 
 <div align="center">
-  💻 I’m a **Cloud Security Enthusiast**
+  💻 I’m a **Cloud Enthusiast**
   
   🛠️ **AWS Community Builder 🔄**
   
   🔭 Exploring content creation and 📝 I write blogs on [Check out my link tree](https://linktr.ee/manitechy)
   
-  🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Security Projects**
+  🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Projects**
   
   📫 Reach out to me at **manikanta.suru@outlook.com**
   
