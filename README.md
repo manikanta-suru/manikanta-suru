@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4912CF&background=58FFB500&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
 # 👋 I am a passionate cloud enthusiast with expertise in Cloud Administration (AWS and GCP) and Chaos Engineering! 💻⚙️
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
