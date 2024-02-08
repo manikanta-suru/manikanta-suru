@@ -36,6 +36,7 @@
 - [Received my 1st-year welcome kit from AWS Community Builder](https://www.linkedin.com/posts/manitechy_awscommunity-awscommunitybuilders-manitechy-activity-7118288759170768896-UdZH?utm_source=share&utm_medium=member_desktop)
 - [Thrilled to share that I've been selected as an Evaluator for Smart India Hackathon 2023](https://www.linkedin.com/posts/manitechy_smartindiahackathon2023-innovation-problemsolving-activity-7134194420882558976-wOGu?utm_source=share&utm_medium=member_desktop)
 - [📰 Thrilled to announce: Successfully joined the official AWS Community](https://www.linkedin.com/posts/manitechy_aws-communityengagement-manitechy-activity-7135993790758060032-olaY?utm_source=share&utm_medium=member_desktop)
+- [🎉 𝑬𝒙𝒄𝒊𝒕𝒊𝒏𝒈 𝒏𝒆𝒘𝒔! 𝑰 𝒓𝒆𝒂𝒄𝒉𝒆𝒅 1700+ 𝒇𝒐𝒍𝒍𝒐𝒘𝒆𝒓𝒔 𝒐𝒏 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝒏! 🚀](https://www.linkedin.com/posts/manitechy_gratitude-linkedinfamily-1700followers-activity-7161211800665956352-lYF2?utm_source=share&utm_medium=member_desktop)
 
 # My Certifications 🏆 
 - [Certified IriusRisk Threat Modeling](https://www.credential.net/658b7004-6a4c-416d-942a-a21e5e92cbc4#gs.265a2g)
