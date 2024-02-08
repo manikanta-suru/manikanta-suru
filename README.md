@@ -1,6 +1,5 @@
-# 👋 Hey there, I'm Manikanta Suru, a passionate cloud enthusiast with a knack for Cloud Administration (AWS and GCP) and Chaos Engineering! 💻☁️
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
+# 👋 I'm Manikanta Suru, a passionate cloud enthusiast with a knack for Cloud Administration (AWS and GCP) and Chaos Engineering! 💻☁️
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
