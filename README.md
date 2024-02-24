@@ -79,7 +79,8 @@
 - [Launching an AWS Instance with AWS CLI: Step-by-Step Guide | POC](https://youtu.be/T7OuWkn7Ev8)
 - [EFS (Elastic File System) Proof of Concept | POC ](https://youtu.be/GEh5jVGLwuU)
 
-# PROJECTS
+# DEVOPS PROJECTS 
+- [Kubernetes project on Amazon EKS, making installation and app deployment super easy with Ingress](https://www.linkedin.com/posts/manitechy_manitechy-manitechy-cloudcomputing-activity-7167179264167981058-_ShH?utm_source=share&utm_medium=member_desktop)
 - [Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide](https://shorturl.at/ksxA0)
 - [Creating a Docker Image: A Step-by-Step Guide to Tagging and Pushing to Docker Hub](https://tinyurl.com/bbee3adc)
 - [Securing Terraform Deployments with KICS: Enhancing Cloud Security & Auto-Remediation](https://www.youtube.com/watch?v=GLnNlyhrurE&t=251s)
