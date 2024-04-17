@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4912CF&background=58FFB500&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
-👋 I am a passionate Windows and VMware environments, alongside hybrid operations, expanding my proficiency in cloud technology and infrastructure management.
+# 👋 I am passionate about Windows and VMware environments, alongside hybrid operations, expanding my proficiency in cloud technology and infrastructure management.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
