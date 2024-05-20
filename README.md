@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4912CF&background=58FFB500&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
-# 👋 My name is Manikanta I’m an MCA Post  graduate from College of Engineering - Dr. B.R. Ambedkar University, Srikakulam with a degree in Computer Science and Engineering. I am an experienced specialist with a demonstrated history of working in the Information Technology and Services industry skilled in cloud technologies such as AWS and Microsoft Azure, and Windows and Vmware 
+# 👋 My name is Manikanta I’m an MCA Post  graduate from College of Engineering - Dr. B.R. Ambedkar University, Srikakulam with a degree in Computer Application ,I am an experienced specialist with a demonstrated history of working in the Information Technology and Services industry skilled in cloud technologies such as AWS and Microsoft Azure, and Windows and Vmware 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manitechy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
