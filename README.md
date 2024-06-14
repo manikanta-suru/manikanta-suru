@@ -55,6 +55,7 @@
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
 
 # Meetups
+- [How GitLab's DevSecOps platform aligns perfectly with AWS, ensuring smooth end-to-end software delivery](https://www.linkedin.com/posts/manitechy_i-have-attended-an-insightful-webinar-activity-7207252937033609216-ZvuH?utm_source=share&utm_medium=member_desktop)
 - [awsughyd 10th Anniversary Meetup at Amazon development centre Hyderabad Dec2023](https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
 - [INDIA CLOUD SECURITY SUMMIT DEC 2023](https://www.linkedin.com/posts/manitechy_microsoftazure-microsoftazure-cloudsecurity-activity-7139497350019878912-U74_?utm_source=share&utm_medium=member_desktop)
 - [Cloud Native Hyderabad August Meetup 2023](https://rb.gy/jd4np)
@@ -70,7 +71,7 @@
 - [Let's understand Disks and create partitions in the Ubuntu 22.04 LTS server](https://shorturl.at/nxAPQ)
 - [Let’s briefly understand (LVM) Logical volume manage in Linux](https://shorturl.at/fuyEK)
 
-# AWS
+# AWS Cloud 
 - [AWS Budget Setup](https://tinyurl.com/5t4f3e3v) 
 - [AWS - Lambda - Automation - Server Start |#Automation Scripts | #Terraform POC](https://youtu.be/yC5R7kmdCEY)
 - [AWS - Lambda - Automation - Server Stop |#Automation Scripts | #Terraform| POC](https://youtu.be/Qr_DebsFZMY0)
