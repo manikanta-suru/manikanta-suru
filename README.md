@@ -47,6 +47,7 @@
 - [🎉 𝑬𝒙𝒄𝒊𝒕𝒊𝒏𝒈 𝒏𝒆𝒘𝒔! 𝑰 𝒓𝒆𝒂𝒄𝒉𝒆𝒅 1700+ 𝒇𝒐𝒍𝒍𝒐𝒘𝒆𝒓𝒔 𝒐𝒏 𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝒏! 🚀](https://www.linkedin.com/posts/manitechy_gratitude-linkedinfamily-1700followers-activity-7161211800665956352-lYF2?utm_source=share&utm_medium=member_desktop)
 
 # My Certifications 🏆 
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/91fd302e-0dac-4708-8b5c-3918515f3751/public_url)
 - [Certified IriusRisk Threat Modeling](https://www.credential.net/658b7004-6a4c-416d-942a-a21e5e92cbc4#gs.265a2g)
 - [GitHub and GitLab Integration with Fortify On Demand (FoD) v23.2 for SAST and SCA Scans](https://www.credly.com/badges/15255cd4-5e00-4190-b7cd-80ae5cf53998/public_url)
 - [Computers, Operating Systems, and Security Authorized By Microsoft](https://www.coursera.org/account/accomplishments/verify/J4G24YPWXE8Y) (Coursera)
