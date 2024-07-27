@@ -39,6 +39,7 @@
 - KPI presentation & Licenses Management
 
 # Achievements 🏆
+- [I'm excited to receiveAWSCommunityBuilder Year 2 swag-2024](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-awscommunity-awscommunitybuilders-activity-7222669509151580160-H8I5?utm_source=share&utm_medium=member_desktop)
 - [🎉I'm excited to share that my application for another year 2024-25 in the AWS Community Builders program has been approved! 🎉](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-activity-7196876677094760449-inZI?utm_source=share&utm_medium=member_desktop)
 - [Selected for the AWS Community Builder program in August 2023](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-excitingtimesahead-awscommunity-activity-7097145005537955841-v1gJ?utm_source=share&utm_medium=member_desktop)
 - [Received my 1st-year welcome kit from AWS Community Builder](https://www.linkedin.com/posts/manitechy_awscommunity-awscommunitybuilders-manitechy-activity-7118288759170768896-UdZH?utm_source=share&utm_medium=member_desktop)
