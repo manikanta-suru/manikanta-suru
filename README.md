@@ -93,6 +93,7 @@
 - [EFS (Elastic File System) Proof of Concept | POC ](https://youtu.be/GEh5jVGLwuU)
 
 # DEVOPS PROJECTS 
+- [🚀 Excited to showcase an innovative project leveraging Azure DevOps: Complete End-to-End CI/CD Process with Azure DevOps and AKS Cluster Deployment! 🛠️✨](https://medium.com/@manitechy/excited-to-showcase-an-innovative-project-leveraging-azure-devops-complete-end-to-end-ci-cd-c1d43da09829)
 - [DevSecOps Project: Deploy Netflix Clone on AWS Cloud using Jenkins](https://github.com/manikanta-suru/DevSecOps-Project.git)
 - [Kubernetes project on Amazon EKS, making installation and app deployment super easy with Ingress](https://www.linkedin.com/posts/manitechy_manitechy-manitechy-cloudcomputing-activity-7167179264167981058-_ShH?utm_source=share&utm_medium=member_desktop)
 - [Deploying a Web Site On Docker with EC2 and Nginx: A Step-by-Step Guide](https://shorturl.at/ksxA0)
