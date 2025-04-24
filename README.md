@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4912CF&background=58FFB500&random=false&width=435&lines=+Hey+there%2C+I'm+Manikanta+Suru)](https://git.io/typing-svg)
- # 👋 Hi, I'm Manikanta
 
 I'm a postgraduate in Computer Applications (MCA) from the College of Engineering – Dr. B.R. Ambedkar University, Srikakulam.
 
