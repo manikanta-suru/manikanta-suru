@@ -45,7 +45,7 @@ I’m passionate about building reliable infrastructure and delivering seamless 
 - KPI presentation & Licenses Management
 
 # Achievements 🏆
--[🎉I'm excited to share that my application for another year 2025-26 in the AWS Community Builders program has been approved! 🎉](https://www.linkedin.com/posts/manitechy_aws-third-aws-activity-7328728370756616194-_XtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACNc4M8B59_oqbR5Y_1WKkeqEjw99QaDNQs)
+- [🎉I'm excited to share that my application for another year 2025-26 in the AWS Community Builders program has been approved! 🎉](https://www.linkedin.com/posts/manitechy_aws-third-aws-activity-7328728370756616194-_XtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACNc4M8B59_oqbR5Y_1WKkeqEjw99QaDNQs)
 - [I’m excited to share that I’ve joined GlowTouch Technologies as a Senior Consultant](https://www.linkedin.com/posts/manitechy_im-excited-to-share-that-ive-joined-glowtouch-activity-7248666931853975553-SvDn?utm_source=share&utm_medium=member_desktop)
 - [I'm excited to receiveAWSCommunityBuilder Year 2 swag-2024](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-awscommunity-awscommunitybuilders-activity-7222669509151580160-H8I5?utm_source=share&utm_medium=member_desktop)
 - [🎉I'm excited to share that my application for another year 2024-25 in the AWS Community Builders program has been approved! 🎉](https://www.linkedin.com/posts/manitechy_awscommunitybuilder-activity-7196876677094760449-inZI?utm_source=share&utm_medium=member_desktop)
