@@ -31,18 +31,8 @@ I’m passionate about building reliable infrastructure and delivering seamless 
   
 </div>
 
-## Core Skills
-- Infrastructure Operation / Project Deliveries. 
-- Solution Designing
-- Microsoft Platform 
-- VMware Solutions
-- Backup Technologies
-- Team Management 
-- ITIL Process
-- Vendor Management
-- Azure and AWS Cloud (Administrator/Solution/Security/Optimization).
-- Server & Storage Hardware (IBM/Dell/HP)
-- KPI presentation & Licenses Management
+# 🚀 Core Skills
+🛠️ Infrastructure Operations & Project Delivery | 🧩 Solution Design | 🪟 Microsoft Platform | 💻 VMware Solutions | 💾 Backup Technologies | 👥 Team Management | ☁️ Azure & AWS Cloud (Admin, Security, Optimization) | 🖥️ Server & Storage Hardware (IBM, Dell, HP) | 📊 KPI Reporting | 🧾 License Management
 
 # Achievements 🏆
 - [🎉I'm excited to share that my application for another year 2025-26 in the AWS Community Builders program has been approved! 🎉](https://www.linkedin.com/posts/manitechy_aws-third-aws-activity-7328728370756616194-_XtA?utm_source=share&utm_medium=member_desktop&rcm=ACoAACNc4M8B59_oqbR5Y_1WKkeqEjw99QaDNQs)
