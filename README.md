@@ -65,6 +65,7 @@ I’m passionate about building reliable infrastructure and delivering seamless 
 - [Gremlin Certified Chaos Engineering Professional - GCCEPro](https://www.credential.net/9e652180-0a6f-47df-9dc0-0cf)
 
 # Meetups
+- [I attended AWS User Group Bengaluru Community Day Bengaluru 2025 at Conrad Bengaluru 🇮🇳✨ 2025 ](https://www.linkedin.com/posts/manitechy_awscommunity-cloudcomputing-infraops-activity-7332033575644545025-C7OP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACNc4M8B59_oqbR5Y_1WKkeqEjw99QaDNQs)
 - [How GitLab's DevSecOps platform aligns perfectly with AWS, ensuring smooth end-to-end software delivery](https://www.linkedin.com/posts/manitechy_i-have-attended-an-insightful-webinar-activity-7207252937033609216-ZvuH?utm_source=share&utm_medium=member_desktop)
 - [awsughyd 10th Anniversary Meetup at Amazon development centre Hyderabad Dec2023](https://www.linkedin.com/posts/manitechy_awsug-hyderabad-aws-activity-7141777410747740160-ifzj?utm_source=share&utm_medium=member_desktop)
 - [INDIA CLOUD SECURITY SUMMIT DEC 2023](https://www.linkedin.com/posts/manitechy_microsoftazure-microsoftazure-cloudsecurity-activity-7139497350019878912-U74_?utm_source=share&utm_medium=member_desktop)
