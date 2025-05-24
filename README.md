@@ -33,10 +33,12 @@
 | Category           | Technologies |
 |--------------------|--------------|
 | ☁️ Cloud Platforms | AWS, Azure, GCP, Oracle Cloud |
-| 🖥️ Virtualization  | VMware, Hyper-V |
-| 🔐 Security        | IAM, GuardDuty, Threat Modeling |
-| 🏗️ Infrastructure  | Terraform, Docker, Kubernetes |
-| 🔄 DevOps          | CI/CD, Jenkins, GitLab |
+| 🏢 Enterprise SaaS | Microsoft 365, Intune |
+| 🖥️ Virtualization  | VMware (VCP-DCV), Hyper-V, Proxmox |
+| 🔐 Security        | IAM, GuardDuty, Threat Modeling, Defender for Cloud |
+| 🏗️ Infrastructure  | Terraform, Docker, Kubernetes, Ansible |
+| 🔄 DevOps          | CI/CD (Jenkins, GitLab, Azure DevOps), GitHub Actions |
+| 📱 Endpoint Mgmt.  | Microsoft Intune, Jamf, Autopilot |
 
 ## 🏆 Achievements
 - 🎉 **AWS Community Builder** (2023-2025) [[Post]](https://www.linkedin.com/posts/manitechy_aws-third-aws-activity-7328728370756616194-_XtA)
