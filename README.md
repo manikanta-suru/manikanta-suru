@@ -124,6 +124,7 @@ I’m passionate about building reliable infrastructure and delivering seamless 
 - [🛡️Getting Started with AWS GuardDuty🚀](https://medium.com/cloudnloud/%EF%B8%8Fgetting-started-with-aws-guardduty-d70fd0615e5d)
 - 
 # AI
+- [Master Interview Prep with Google AI Studio Live | Real-Time Practice & Feedback!](https://www.linkedin.com/feed/update/urn:li:activity:7331312574820470786/)
 - [ChatGPT vs Google Bard (2023): An in-depth comparison](https://medium.com/cloudnloud/chatgpt-vs-google-bard-2023-an-in-depth-comparison-a5c1b60315cc)
 - [✨✨Free Open Source Intelligence Tools 2023 — Updated v3✨✨](https://medium.com/@gefkkd/free-open-source-intelligience-tools-2023-updated-v3-b89380b725c4) 
 
