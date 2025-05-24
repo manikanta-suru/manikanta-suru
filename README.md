@@ -2,7 +2,7 @@
 
 👋 I'm a postgraduate in Computer Applications (MCA) from the College of Engineering – Dr. B.R. Ambedkar University, Srikakulam.
 
-💻 With 5+ years in IT infrastructure, I specialize in:
+💻 With 11+ years in IT infrastructure, I specialize in:
 - ☁️ **AWS** & **Azure** cloud platforms
 - 🖥️ **Windows Server** administration
 - 🔄 **VMware** virtualization
