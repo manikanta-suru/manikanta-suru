@@ -23,12 +23,11 @@ I’m passionate about building reliable infrastructure and delivering seamless 
   
   🛠️ **AWS Community Builder 🔄**
   
-  🔭 Exploring content creation and 📝 I write blogs on [Check out my link tree](https://linktr.ee/manitechy)
+  🔭 Exploring content creation and 📝 I write blogs on [Check out my links ](https://manikanta-suru.github.io/)
   
   🤩 I’m looking to collaborate on **AWS, Azure, GCP, and Cloud Projects**
   
-  📫 Reach out to me at **manikanta.suru@outlook.com**
-  
+ 
 </div>
 
 # 🚀 Core Skills
